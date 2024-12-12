@@ -7,7 +7,6 @@
 • Have a strong background in developing applications using Angular, JavaScript, Ionic, NativeScript, HTML/CSS, NestJs, SQL, NoSQL, and Restful API. <br/>
 • Experience working with Git, GitLab, npm, Jira, and Redmine. <br/>
 • With a focus on Angular Framework, I have gained significant experience in creating robust and scalable applications. <br/>
-• Strong spoken and written English.
 
 ---
 ### 🧰 Languages and Tools
